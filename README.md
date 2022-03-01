@@ -1,7 +1,12 @@
 
+<div>
+<img src="./img/cover.jpeg" width="100%" alt="css" />
+</div>
+
+<h1 align="center">Hi there, I'm Fahra, and I'm a Full stack developer.  </h1>
+
 <p align="center" >
-My Names Fahra, I'm a Full stack developer and I'm from Birmingham (UK).  
-Im currently on the verge of completing my certification in full stack development with the University of Birmingham.
+I've <i>'oh so nearly'</i> completed my certification in Full Stack Development with the University of Birmingham; and looking for opportunities to grow and apply my skills with passion in the world of code!
 </p>
 
 
