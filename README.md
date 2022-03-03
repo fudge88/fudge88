@@ -1,6 +1,6 @@
 
 <div>
-<img src="./img/cover.jpeg" width="100%" alt="css" />
+<img src="./img/header.jpeg" width="100%" alt="css" />
 </div>
 
 <h1 align="center">Hi there, I'm Fahra, and I'm a Full stack developer.  </h1>
