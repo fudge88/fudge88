@@ -1,9 +1,9 @@
 
 <div>
-<img src="./img/cover.jpeg" width="100%" alt="css" />
+<img src="./img/header.jpeg" width="100%" alt="css" />
 </div>
 
-<h1 align="center">Hi there, I'm Fahra, and I'm a Full stack developer.  </h1>
+<h3 align="center">...and I'm a Full stack developer!  </h3>
 
 <p align="center" >
 I've <i>'oh so nearly'</i> completed my certification in Full Stack Development with the University of Birmingham; and looking for opportunities to grow and apply my skills with passion in the world of code!
@@ -68,3 +68,12 @@ I've <i>'oh so nearly'</i> completed my certification in Full Stack Development 
 
  📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/f-akhlaq/) or my [Personal web page](https://fudge88.github.io/react-portfolio/)
 </div>
+
+<br/>
+
+<h3 align="center">Whilst you're here, why don't you take a look at some of my projects</h3>
+
+<p align="center" >
+If you would like to join heads, and work on a project together- get in touch. 
+</p>
+<h3 align="center">Happy Coding!</h3>
