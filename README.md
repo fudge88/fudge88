@@ -6,7 +6,7 @@
 <h3 align="center">...and I'm a Full stack developer!  </h3>
 
 <p align="center" >
-I've <i>'oh so nearly'</i> completed my certification in Full Stack Development with the University of Birmingham; and looking for opportunities to grow and apply my skills with passion in the world of code!
+I've <i>'recently'</i> completed my certification in Full Stack Development with the University of Birmingham; and looking for opportunities to grow and apply my skills with passion in the world of code!
 </p>
 
 
@@ -60,7 +60,7 @@ I've <i>'oh so nearly'</i> completed my certification in Full Stack Development 
 
 <div align="center">
 
-🔭 &nbsp;I’m currently working on a super cool project related to the MERN stack (wish me luck!)  
+🔭 &nbsp;I’m currently teaching 7-10 year olds how to code!  
 
 👯 &nbsp;I’m looking to collaborate on full stack web apps!
 
